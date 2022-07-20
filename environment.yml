@@ -13,3 +13,4 @@ dependencies:
     - vector>=0.8.2
     - mplhep
     - hist
+    - uproot-browser
